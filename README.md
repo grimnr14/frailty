@@ -17,12 +17,12 @@ In this project, each task included multiple subtasks. Task-1 included administr
 
 ## Specific Tasks
 Each of the project's subtasks are expanded upon here for greater clarity.
-# * Subtask 2.1: Check the linkage of EHR and claims in underlying data sources (JHMI, OLDW, KPMAS)
-# * Subtask 2.2: Formulate and identify denominators/cohorts of patients
+$ * Subtask 2.1: Check the linkage of EHR and claims in underlying data sources (JHMI, OLDW, KPMAS)
+$ * Subtask 2.2: Formulate and identify denominators/cohorts of patients
  * Subtask 2.3: Measure the completeness of frailty predictors across EHR and claims data
  * Subtask 2.4: Compare patient-level comorbidity scores across EHR and claims data
-# * Subtask 3.1: Validate and refine claims and EHR-based frailty measures in predicting functional disability
+$ * Subtask 3.1: Validate and refine claims and EHR-based frailty measures in predicting functional disability
  * Subtask 3.2: Assess distribution and concordance of claims and EHR-based measures of frailty
-# * Subtask 3.3: Compare the claims vs. EHR-based frailty measures across health systems
+$ * Subtask 3.3: Compare the claims vs. EHR-based frailty measures across health systems
  * Subtask 3.4: Measure potential disparities in claims- vs. EHR-based frailty indexes across subgroups
  * Subtask 3.5: Evaluate the value of claims- vs. EHR-based frailty measures in predicting healthcare utilization
