@@ -1,4 +1,4 @@
-# frailty
+# Frailty
 Code used in the 2021-2022 ASPE supported frailty validation using EHR, titled: "Developing and Assessing the Validity of Claims-based Indicators of Frailty & Functional Disabilities and Testing their Use in Other Data (EHRs and linked EHR-claims)
 
 ## Project Tasks
