@@ -14,3 +14,8 @@ In this project, each task included multiple subtasks. Task-1 included administr
  * Application of Kim et al CFI
  * Assessing concordance of CFI-EFI
  * Prediction of healthcare utilization with FI scores
+
+### central tendency of fi by sourceid.r
+ * Code related to completion of task 3.3
+ * Applies to OLDW data resources only
+ * Assesses counts and averages of FI across claims and EHR for multiple sourceids
